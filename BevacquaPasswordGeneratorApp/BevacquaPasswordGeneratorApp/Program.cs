@@ -50,6 +50,38 @@ namespace BevacquaPasswordGeneratorApp
             alfabeto[25] = 'z';
 
 
+            string[] parole = new string[20];
+            parole[0] = 'ciao';
+            parole[1] = 'sus';
+            parole[2] = 'hihi';
+            parole[3] = '';
+            parole[4] = '';
+            parole[5] = '';
+            parole[6] = '';
+            parole[7] = '';
+            parole[8] = '';
+            parole[9] = '';
+            parole[10] = '';
+            parole[10] = '';
+            parole[10] = '';
+            parole[10] = '';
+            parole[10] = '';
+            parole[10] = '';
+            parole[10] = '';
+            parole[10] = '';
+            parole[10] = '';
+            parole[10] = '';
+            parole[10] = '';
+            parole[0] = '';
+            parole[0] = '';
+            parole[0] = '';
+            parole[0] = '';
+            parole[0] = '';
+            parole[0] = '';
+            parole[0] = '';
+            parole[0] = '';
+
+
             char[] simboli = new char[10];
             simboli[0] = '!';
             simboli[1] = '.';
