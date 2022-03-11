@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BevacquaVettori1/1.0.0": {
+        "runtime": {
+          "BevacquaVettori1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BevacquaVettori1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
